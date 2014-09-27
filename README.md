@@ -1,3 +1,5 @@
+[ ![Codeship Status for bozcotty/auth](https://www.codeship.io/projects/75a2e100-2807-0132-6e7a-367e1c0eb7d5/status)](https://www.codeship.io/projects/37886)
+
 # Rails Authorization from Scratch
 
 ## Description
